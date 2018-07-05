@@ -26,7 +26,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <errno.h>
-#include <endian.h>
+#include "portable_endian.h"
 #include <stdint.h>
 #include <termios.h>
 
